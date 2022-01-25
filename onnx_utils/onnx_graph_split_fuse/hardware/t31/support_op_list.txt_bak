@@ -1,0 +1,6 @@
+Conv
+Clip
+BatchNormalization
+Relu
+MaxPool
+
