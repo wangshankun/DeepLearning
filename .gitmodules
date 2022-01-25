@@ -1,0 +1,6 @@
+[submodule "onnx_subgraph_fuse"]
+	path = onnx_subgraph_fuse
+	url = git@github.com:wangshankun/X2Hie.git
+[submodule "Tengine_Atlas"]
+	path = Tengine_Atlas
+	url = git@github.com:wangshankun/Tengine_Atlas.git
